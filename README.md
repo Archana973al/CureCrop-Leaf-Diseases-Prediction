@@ -37,6 +37,7 @@ Real-Time Camera:
 Go to the Real-Time Camera tab.
 Click Capture Image to take a photo using your device's camera.
 The app will analyze the image and provide results.
+![Image](https://github.com/user-attachments/assets/a3b7e143-6803-43c9-813d-fbac1b911d73)
 Video Stream Analysis:
 Go to the Video Stream Analysis tab.
 Upload a video file or provide a stream URL.
