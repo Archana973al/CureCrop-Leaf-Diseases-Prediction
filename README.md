@@ -82,3 +82,4 @@ TensorFlow and Keras for providing the deep learning framework.
 Gradio for the user-friendly interface.
 OpenCV for real-time image and video processing.
 gTTS for text-to-speech functionality.
+![Image](https://github.com/user-attachments/assets/6bb1028c-2b80-44de-8e62-0c7e67c800e1)
