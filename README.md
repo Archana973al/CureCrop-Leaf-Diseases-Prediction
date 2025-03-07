@@ -32,7 +32,7 @@ Upload Image:
 Go to the Upload Image tab.
 Upload a leaf image and click Submit.
 The app will display the disease name, severity, cause, and prevention tips.
-C:\Users\HP\Desktop\LEAF\LEAF-DISEASES-PREDICTION\Screenshot 2025-03-06 231608.png
+
 Real-Time Camera:
 Go to the Real-Time Camera tab.
 Click Capture Image to take a photo using your device's camera.
