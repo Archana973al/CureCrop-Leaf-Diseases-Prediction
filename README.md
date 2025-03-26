@@ -19,6 +19,7 @@ The Leaf Disease Detection App is a machine learning-based application designed 
 | **Virus** | ☣️ | Viral infections |
 
 </div>
+
 - 🎯 95% classification accuracy
 
 - 🖼️ Processes leaf images in <1s
@@ -27,7 +28,7 @@ The Leaf Disease Detection App is a machine learning-based application designed 
   
 - 📊 Detailed health reports
 
-## 🚀 Core Features  
+### 🚀 Core Features  
 - **📸 Real-Time Camera**  
   _Capture leaf images for instant analysis_  
 - **🚁 Video Analysis**  
@@ -37,7 +38,7 @@ The Leaf Disease Detection App is a machine learning-based application designed 
 - **✨ Gradio UI**  
   _No-code interface for easy adoption_  
 
-## 🚀 Powered By  
+### 🚀 Powered By  
 [![TF](https://img.shields.io/badge/DenseNet121-TensorFlow-FF6F00)](https://www.tensorflow.org/)  
 [![OpenCV](https://img.shields.io/badge/RealTime-OpenCV-5C3EE8)](https://opencv.org/)  
 [![gTTS](https://img.shields.io/badge/Audio-gTTS-34A853)](https://gtts.readthedocs.io/)  
@@ -45,7 +46,7 @@ The Leaf Disease Detection App is a machine learning-based application designed 
 [![Pandas](https://img.shields.io/badge/Data-Pandas-150458)](https://pandas.pydata.org/)  
 
 ### 📲 Usage Guide
-# Upload Image:
+### Upload Image:
 Go to the Upload Image tab.
 Upload a leaf image and click Submit.
 The app will display the disease name, severity, cause, and prevention tips.
