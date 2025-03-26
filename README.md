@@ -1,8 +1,8 @@
-### 🌿 Leaf Disease Detection App
+# 🌿 Leaf Disease Detection App
 
 The Leaf Disease Detection App is a machine learning-based application designed to help farmers, gardeners, and agricultural professionals identify plant diseases from leaf images. The app uses a deep learning model to classify diseases and provides detailed information about the disease, its severity, causes, and prevention methods. It also supports real-time camera capture and video stream analysis.
 
-## 🌿 Disease Classification
+##  Disease Classification
 
 **Detects and classifies plant leaf diseases into 7 categories:**
 
@@ -52,7 +52,7 @@ The app will display the disease name, severity, cause, and prevention tips.
 
 ✨ Output:
 ![Image](https://github.com/user-attachments/assets/bce19b59-1b3b-44b2-85e4-e5a5a67b19db)
-# Real-Time Camera:
+### Real-Time Camera:
 
 📸 How to use:
 Go to the Real-Time Camera tab.
@@ -61,7 +61,7 @@ The app will analyze the image and provide results.
 
 ⚡ Live Results:
 ![Image](https://github.com/user-attachments/assets/a3b7e143-6803-43c9-813d-fbac1b911d73)
-# Video Stream Analysis:
+### Video Stream Analysis:
 Go to the Video Stream Analysis tab.
 Upload a video file or provide a stream URL.
 Click Analyze Video to process the video and detect diseases.
@@ -73,7 +73,7 @@ Greenhouse monitoring
 
 Batch processing
 
-# Chatbot:
+### Chatbot:
 Go to the Chatbot tab.
 Ask questions about plant diseases (e.g., "What causes fungal infections?").
 The chatbot will provide detailed responses with audio feedback.
@@ -120,7 +120,7 @@ Multi-language TTS 🔊
 
 Soil health correlation 🌱
 (Disease prediction models)
-# Acknowledgments
+### Acknowledgments
 TensorFlow and Keras for providing the deep learning framework.
 Gradio for the user-friendly interface.
 OpenCV for real-time image and video processing.
