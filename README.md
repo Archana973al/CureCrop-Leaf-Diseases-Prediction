@@ -132,7 +132,7 @@ gTTS for text-to-speech functionality.
 
 ```bash
 # 1. Fork & clone the repo
-gh repo fork Ananya2312/smartslideconverter && cd smartslideconverter
+gh repo fork Archana973al/CureCrop-Leaf-Diseases-Prediction && cd smartslideconverter
 
 # 2. Create a feature branch
 git checkout -b feat/your-feature
